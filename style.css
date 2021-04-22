@@ -1,0 +1,22 @@
+/*CSS PHP Data Mahsasiswa*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #252a48;
+  font-family: "Poppins", sans-serif;
+}
+.navme {
+  background-color: #2d3357;
+}
+.tabel {
+  padding-top: 3rem;
+  background-color: #252a48;
+}
+
+footer {
+  background-color: #252a48;
+}
