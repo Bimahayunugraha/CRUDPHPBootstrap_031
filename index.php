@@ -52,7 +52,9 @@
     <div class="container data-mahasiswa text-center">
         <div class="row mb-3">
           <div class="me col">
-            <h2 class="text-info fw-bold">Data Mahasiswa</h2>
+              <div class="mhs container mb-2">
+              <h2 class="text-info text-center fw-bold">Data Mahasiswa</h2>
+            </div>
           </div>
         </div>
         <table class="table table-dark table-striped table-bordered border-white shadow-sm">

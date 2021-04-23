@@ -16,7 +16,27 @@ body {
   padding-top: 3rem;
   background-color: #252a48;
 }
-
+.mhs {
+  width: 29%;
+  border-bottom: 4px solid aqua;
+}
 footer {
   background-color: #252a48;
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .mhs {
+    width: 55%;
+    border-bottom: 4px solid aqua;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .mhs h2 {
+    font-size: 21px;
+  }
+  .mhs {
+    width: 50%;
+    border-bottom: 4px solid aqua;
+  }
 }
